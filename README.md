@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Komal-mishra-au13
+- 👋 Hi, I am Komal Mishra
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning mern stack web development
 - 📫 How to reach me ...Emailid- komalmishra.bca@gmail.com
