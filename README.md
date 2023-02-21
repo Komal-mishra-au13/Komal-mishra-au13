@@ -1,6 +1,6 @@
 - 👋 Hi, I am Komal Mishra
 - 👀 I’m interested in web developing
-- 🌱 I’m currently working as mern stack web developer in Jokester Multivendor Pvt. Ltd.
+- 🌱 I was working as mern stack web developer in Jokester Multivendor Pvt. Ltd.
 - 📫 How to reach me ...Emailid- komalmishra.bca@gmail.com
 
 <!---
